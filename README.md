@@ -6,5 +6,6 @@
 - Dual-Teacher De-biasing Distillation Framework for Multi-domain Fake News Detection 多领域新闻检测的双教师去偏蒸馏框架 [(pdf)](https://arxiv.org/pdf/2312.01006.pdf) [(code)](https://github.com/ningljy/DTDBD)
 - Generalizing to the Future: Mitigating Entity Bias in Fake News Detection 减轻假新闻检测中的实体偏见 [(pdf)](https://dl.acm.org/doi/pdf/10.1145/3477495.3531816) [(code)](https://github.com/ICTMCG/ENDEF-SIGIR2022)
 - Rumor Detection and Classification for Twitter Data  Twitter数据的谣言检测与分类 [(pdf)](https://arxiv.org/pdf/1912.08926)
-- 
+- Cross-modal Ambiguity Learning for Multimodal Fake News Detection 跨模态歧义学习的假新闻检测 [(pdf)](https://atailab.cn/seminar2022Spring/pdf/2022_WWW_Cross-modal%20Ambiguity%20Learning%20for%20Multimodal%20Fake%20News%20Detection.pdf)
+- FREDOM-Fairness Domain Adaptation Approach to Semantic Scene Understanding 语义场景理解的自由度-公平性域自适应方法 [(pdf)](http://openaccess.thecvf.com/content/CVPR2023/papers/Truong_FREDOM_Fairness_Domain_Adaptation_Approach_to_Semantic_Scene_Understanding_CVPR_2023_paper.pdf) [(code)](https://github.com/uark-cviu/FREDOM)
 - 
